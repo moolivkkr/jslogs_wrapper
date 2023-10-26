@@ -1,0 +1,20 @@
+{
+  "name": "jslog_wrapper",
+  "version": "0.1.0",
+  "description": "Your package description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\"Error: no test specified\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/jslog_wrapper.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2",
+    "jest": "^27.4.7",
+    "ts-jest": "^27.0.5"
+  }
+}
